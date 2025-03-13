@@ -8,6 +8,7 @@
 
 | Название задачи | Решение |
 | ----------- | ----------- |
+| 704. Binary Search | [Решение](https://github.com/s-h-o-r/leetcode/tree/main/solutions/704.%20Binary%20Search) |
 | 1351. Count Negative Numbers in a Sorted Matrix | [Решение](https://github.com/s-h-o-r/leetcode/tree/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) |
 | 2529. Maximum Count of Positive Integer and Negative Integer | [Решение](https://github.com/s-h-o-r/leetcode/tree/main/solutions/2529.%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer) |
 | 1308. Number of Substrings Containing All Three Characters | [Решение](https://github.com/s-h-o-r/leetcode/tree/main/solutions/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters) |
