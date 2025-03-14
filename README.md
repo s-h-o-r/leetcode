@@ -8,6 +8,7 @@
 
 | Название задачи | Решение |
 | ----------- | ----------- |
+| 2226. Maximum Candies Allocated to K Children | [Решение](https://github.com/s-h-o-r/leetcode/tree/main/solutions/2226.%20Maximum%20Candies%20Allocated%20to%20K%20Children) |
 | 3356. Zero Array Transformation II | [Решение](https://github.com/s-h-o-r/leetcode/tree/main/solutions/3356.%20Zero%20Array%20Transformation%20II) |
 | 704. Binary Search | [Решение](https://github.com/s-h-o-r/leetcode/tree/main/solutions/704.%20Binary%20Search) |
 | 1351. Count Negative Numbers in a Sorted Matrix | [Решение](https://github.com/s-h-o-r/leetcode/tree/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) |
